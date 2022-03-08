@@ -1,1 +1,1 @@
-# Machine-Learning-Project-for-Retail-Price-Optimization
+# Machine Learning Project for Retail Price Optimization
